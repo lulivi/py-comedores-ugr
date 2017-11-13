@@ -5,3 +5,4 @@ import os
 
 myPath = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, myPath + '/../py_comedores_ugr')
+sys.path.insert(0, myPath + '/../csu_scraping')
