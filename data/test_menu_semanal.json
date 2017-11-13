@@ -1,0 +1,321 @@
+{
+  "Semana": "Semana del 13 al 18 de noviembre de 2017",
+  "Lunes": {
+    "Día": "Lunes, 13 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Raviolis a la carbonara",
+        "Apio Frutos secos Gluten Huevos Lácteos Pescado Soja"
+      ],
+      "Segundo": [
+        "Fritura de pescado",
+        "Gluten Pescado"
+      ],
+      "Acompañamiento": [
+        "Ensalada hortelana",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Melón",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Comedor PTS": {
+      "Primero": [
+        "Macarrones con fritada y chorizo",
+        "Huevos Lácteos Pescado Soja"
+      ],
+      "Segundo": [
+        "Aguja a la parrilla",
+        "Pescado"
+      ],
+      "Acompañamiento": [
+        "Pipirrana",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Melón",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    }
+  },
+  "Martes": {
+    "Día": "Martes, 14 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Cocido montañés",
+        "Sulfitos"
+      ],
+      "Segundo": [
+        "Flamenquines cordobeses",
+        "Gluten Huevos Lácteos"
+      ],
+      "Acompañamiento": [
+        "Ensalada galán",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Mandarinas",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 2": {
+      "Primero": [
+        "Olla gitana",
+        "Frutos secos (almendras) Gluten Sulfitos"
+      ],
+      "Segundo": [
+        "Huevos escalfados en salsa de cebolla (Soubise)",
+        "Gluten Huevos Lácteos Sulfitos"
+      ],
+      "Acompañamiento": [
+        "Ensalada galán",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Mandarinas",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 1 - PTS": {
+      "Primero": [
+        "Cocido montañés",
+        "Sulfitos"
+      ],
+      "Segundo": [
+        "Cordón bleu",
+        "Lácteos"
+      ],
+      "Acompañamiento": [
+        "Pipirrana",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Mandarinas",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 2 - PTS": {
+      "Primero": [
+        "Olla gitana",
+        "Frutos secos (almendras) Gluten Sulfitos"
+      ],
+      "Segundo": [
+        "Huevos escalfados argelina",
+        "Huevos Lácteos Sulfitos"
+      ],
+      "Acompañamiento": [
+        "Ensalada galán",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Mandarinas",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    }
+  },
+  "Miércoles": {
+    "Día": "Miércoles, 15 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Ensalada de arroz",
+        ""
+      ],
+      "Segundo": [
+        "Berenjenas rellenas de hortalizas",
+        "Frutos secos (piñones) Gluten Lácteos"
+      ],
+      "Acompañamiento": [
+        "Cebolla danesa",
+        "Gluten Lácteos"
+      ],
+      "Postre": [
+        "Surtido de fruta",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 2": {
+      "Primero": [
+        "Arroz caldoso marinero",
+        "Crustáceos Moluscos Pescado Sulfitos"
+      ],
+      "Segundo": [
+        "Ternera a la carbonada",
+        "Apio Gluten Sulfitos"
+      ],
+      "Acompañamiento": [
+        "Calabacín frito",
+        "Gluten"
+      ],
+      "Postre": [
+        "Surtido de fruta",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    }
+  },
+  "Jueves": {
+    "Día": "Jueves, 16 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Estofado de lentejas",
+        "Gluten Huevos Sulfitos"
+      ],
+      "Segundo": [
+        "Pechuga de pollo Mireya",
+        "Gluten Sulfitos"
+      ],
+      "Acompañamiento": [
+        "Empanadillas de bonito",
+        "Apio Gluten Lácteos Moluscos Mostaza Pescado Soja"
+      ],
+      "Postre": [
+        "Flan de huevo",
+        "Huevos Lácteos"
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 1 - PTS": {
+      "Primero": [
+        "Estofado de lentejas",
+        "Gluten Huevos Sulfitos"
+      ],
+      "Segundo": [
+        "Pechuga de pollo Mireya",
+        "Gluten Sulfitos"
+      ],
+      "Acompañamiento": [
+        "Ensalada mixta",
+        "Apio Gluten Lácteos Moluscos Mostaza Pescado Soja"
+      ],
+      "Postre": [
+        "Flan de huevo",
+        "Huevos Lácteos"
+      ],
+      "Bebida": [
+        "Vino tinto"
+      ]
+    }
+  },
+  "Viernes": {
+    "Día": "Viernes, 17 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Pizza",
+        "Gluten Lácteos Soja Sulfitos"
+      ],
+      "Segundo": [
+        "Plato alpujarreño",
+        "Gluten* Huevos"
+      ],
+      "Postre": [
+        "Naranja",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Comedor PTS": {
+      "Primero": [
+        "Sopa juliana",
+        "Apio"
+      ],
+      "Segundo": [
+        "Aguja a la parrilla",
+        "Pescado"
+      ],
+      "Acompañamiento": [
+        "Pipirrana",
+        "Sulfitos"
+      ],
+      "Postre": [
+        "Melón",
+        ""
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    }
+  },
+  "Sábado": {
+    "Lugar": "Comedor Fuentenueva",
+    "Día": "Sábado, 18 de noviembre de 2017",
+    "Menú 1": {
+      "Primero": [
+        "Sopa sevillana",
+        "Crustáceos Huevos Moluscos Pescado Soja Sulfitos"
+      ],
+      "Segundo": [
+        "Caldereta de cerdo",
+        "Gluten Sulfitos"
+      ],
+      "Postre": [
+        "Bizcocho de plátano",
+        "Frutos secos (almendras) Gluten Huevos Lácteos Sulfitos"
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    },
+    "Menú 2": {
+      "Primero": [
+        "Migas de sémola",
+        "Gluten"
+      ],
+      "Segundo": [
+        "Salmón a la parrilla",
+        "Huevos Pescado"
+      ],
+      "Acompañamiento": [
+        "Cogollo a la cordobesa",
+        ""
+      ],
+      "Postre": [
+        "Bizcocho de plátano",
+        "Frutos secos (almendras) Gluten Huevos Lácteos Sulfitos"
+      ],
+      "Bebida": [
+        "Vino tinto",
+        "Sulfitos"
+      ]
+    }
+  }
+}
