@@ -16,15 +16,17 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>
 """
 
+import json
+
 
 class ComedoresUgrApi(object):
-    """Represent an API to get information from scu.ugr.es."""
+    """Obtain information about the week menu."""
 
     def __init__(self):
         """Initialize by default value all variables."""
         self.__week = dict()
 
-    def _load_week_json(self):
+    def load_week_json(self, menu_file_path):
         pass
 
     def semana(self):
