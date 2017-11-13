@@ -23,7 +23,7 @@ class ScuScraper(object):
     def __init__(self):
         """Initialize by default value all variables."""
         self._PAGE_URL = 'http://scu.ugr.es/'
-        self.__week_menu = dict()
+        self.__week_dict = dict()
 
     def get_week_menu(self):
         pass
