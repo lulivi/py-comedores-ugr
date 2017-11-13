@@ -1,6 +1,6 @@
 # py-scu-ugr
 
-SCU UGR python scrapper.
+SCU UGR python scraper.
 
 ## License
 
